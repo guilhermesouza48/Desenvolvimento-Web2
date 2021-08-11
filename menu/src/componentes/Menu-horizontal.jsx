@@ -40,6 +40,10 @@ export default function Menu(){
                     <h1>Sobre</h1>
                 </section>
 
+                <footer>
+                    
+                </footer>
+
             </div>
         </div>
     )
